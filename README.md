@@ -2,6 +2,7 @@
 
 Questa repository serve per creare un mini blog fittizio che utilizze le API di JSONPlaceholder per popolare il sito con post e autori fittizzi.
 Il progetto è un esempio di sito statico.
+Il sito è disponibile su GitHub Pages al link...
 
 ## Funzionalità
 Il progetto espone queste funzionalità:
@@ -17,6 +18,12 @@ Il progetto espone queste funzionalità:
 - CSS & Bootstrap
 - Javascript
 - API di JSONPlaceholder
+
+## Requisiti
+- Un browser moderno
+- Connessione internet (per Bootstrap e per fetchare i dati delle API)
+- API di JSONPlaceholder per i dati fittizzi
+- Git installato
 
 ## API utilizzate
 
